@@ -1,8 +1,8 @@
-﻿# 京东首页
+# 京东首页
 
 Hi，欢迎来到jane的gitHub小天地，撒花~
 
-![送花](http://m.yh31.com/tp/zjbq/201610252203299333.gif)
+![送花](https://b-ssl.duitang.com/uploads/item/201507/25/20150725131211_MvXes.jpeg)
 
 你现在看到的是一个京东首页练手项目，这个项目呢，嗯哼~对于新手入门是一个不错的练习~
 
